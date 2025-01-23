@@ -1,6 +1,5 @@
-class patternQuestion{
+class patternQuestions{
     public static void main(String[] args) {
-        brrbtr
-        System.out.println("hello World");
+        System.out.println("My Name Is Someshwar");
     }
 }
